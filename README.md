@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [mern stack web using next js](https://github.com/mahmouds23an/e-shop-with-next)
 
-- 🌱 I’m currently learning **node js, react, mongo db, sql db, vanilla js, html, css, tailwind css and jquery**
+- 🌱 I’m currently learning **node js, react, next js, mongo db, sql db, vanilla js, html, css, tailwind css and jquery**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmouds23an](https://github.com/mahmouds23an)
 
-- 💬 Ask me about **node js, react, vanilla js**
+- 💬 Ask me about **node js, react, next js, vanilla js**
 
 - 📫 How to reach me **pgemahmoud@gmail.com**
 
