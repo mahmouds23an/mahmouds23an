@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/s23an96" target="blank"><img src="https://img.shields.io/twitter/follow/s23an96?logo=twitter&style=for-the-badge" alt="s23an96" /></a> </p>
 
-- 🔭 I’m currently working on [mern stack e-learning web responsive app with my colleague nada](https://github.com/nadaaboelkheir/E-learning-system-ITI)
+- 🔭 I’m currently working on [mern stack chalet reservation web responsive app]
 
 - 🌱 I’m currently learning **node js, react, next js, mongo db, sql db, vanilla js, html, css, tailwind css and jquery**
 
